@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<DataProcessor uuid="debf45f9-a0cb-4c05-bc55-29bf20733b17">
+		<InternalInfo>
+			<xr:GeneratedType name="DataProcessorObject.БЛС_БиблиотекаФорм" category="Object">
+				<xr:TypeId>6dde0fca-49ee-4430-8c2c-9d7c408dd677</xr:TypeId>
+				<xr:ValueId>29264e8c-554d-4b82-a6ac-cb8c9243f30a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DataProcessorManager.БЛС_БиблиотекаФорм" category="Manager">
+				<xr:TypeId>c4fae68f-cbab-4619-971d-f1764b8ef7eb</xr:TypeId>
+				<xr:ValueId>ec136b96-cb81-4f79-a299-b4f10ed9099d</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>БЛС_БиблиотекаФорм</Name>
+			<Synonym>
+				<v8:item>
+					<v8:lang/>
+					<v8:content>БЛС библиотека форм</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>(БЛС) Библиотека форм</v8:content>
+				</v8:item>
+			</Synonym>
+			<Comment/>
+			<UseStandardCommands>true</UseStandardCommands>
+			<DefaultForm>DataProcessor.БЛС_БиблиотекаФорм.Form.Пример</DefaultForm>
+			<AuxiliaryForm/>
+			<IncludeHelpInContents>false</IncludeHelpInContents>
+			<ExtendedPresentation/>
+			<Explanation/>
+		</Properties>
+		<ChildObjects>
+			<Form>Пример</Form>
+		</ChildObjects>
+	</DataProcessor>
+</MetaDataObject>

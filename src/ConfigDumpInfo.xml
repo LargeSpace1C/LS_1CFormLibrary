@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.17">
+	<ConfigVersions>
+		<Metadata name="CommonModule.БЛС_БлочныеТаблицыФорм" id="15f5accb-39a0-4f37-bd03-b6578a6ab02d" configVersion="19f5bec820ee11f07af7a1a8a9e9af01123a76a9"/>
+		<Metadata name="CommonModule.БЛС_БлочныеТаблицыФорм.Module" id="15f5accb-39a0-4f37-bd03-b6578a6ab02d.0" configVersion="5b2e0ca15af5d3ca1ff5ca7fd97d4f417eda7cc1"/>
+		<Metadata name="CommonModule.БЛС_БлочныеТаблицыФормПереопределяемый" id="f6168500-e51f-4e09-a77d-a100ad865f30" configVersion="75209e5355d96f0371e61f80e127e8a6700c7825"/>
+		<Metadata name="CommonModule.БЛС_БлочныеТаблицыФормПереопределяемый.Module" id="f6168500-e51f-4e09-a77d-a100ad865f30.0" configVersion="dc33380e3696ec43fa55734f8fc8ea09e06b3548"/>
+		<Metadata name="CommonModule.БЛС_Формы" id="6d13fa44-e5e1-457b-8f7b-bd244b131bed" configVersion="40d9d837b6096918cabc4fef47630868b3d17e53"/>
+		<Metadata name="CommonModule.БЛС_Формы.Module" id="6d13fa44-e5e1-457b-8f7b-bd244b131bed.0" configVersion="acb7f6819d8a29caa0faca2c3fa73609c52870f5"/>
+		<Metadata name="CommonModule.БЛС_ФормыИнтерфейс" id="b6e6116b-9786-4eba-b332-5a5908657efa" configVersion="5c85d5930d8557347341e1de5d9b9aff586319a1"/>
+		<Metadata name="CommonModule.БЛС_ФормыИнтерфейс.Module" id="b6e6116b-9786-4eba-b332-5a5908657efa.0" configVersion="3d89e1a6e9f0671fc4f85f1c1fe21bb8414e3c5e"/>
+		<Metadata name="CommonModule.БЛС_ФормыОбработчики" id="63209ce8-6232-4e0e-a63c-22ce39198c85" configVersion="154a29c5a5d86886a8c210b9f57668be0ee1d7d0"/>
+		<Metadata name="CommonModule.БЛС_ФормыОбработчики.Module" id="63209ce8-6232-4e0e-a63c-22ce39198c85.0" configVersion="c734277da2f5cf9c65c6720f9997c0ffdd5390fa"/>
+		<Metadata name="CommonModule.БЛС_ФормыОбработчикиПереопределяемый" id="d78bb00c-d78c-412c-af72-9fdd650cf9ee" configVersion="fcb4d3f7fbfcc6b0194f70236f40e7f0ae925fb6"/>
+		<Metadata name="CommonModule.БЛС_ФормыОбработчикиПереопределяемый.Module" id="d78bb00c-d78c-412c-af72-9fdd650cf9ee.0" configVersion="9e508a6376de19d3a137b602867bf3b51fe643e8"/>
+		<Metadata name="CommonModule.БЛС_ФормыЭлементы" id="a54400e0-4910-4352-8fc2-50f1e77d668e" configVersion="ccf94732e92c5c122448e54a34ea6bc06750f15c"/>
+		<Metadata name="CommonModule.БЛС_ФормыЭлементы.Module" id="a54400e0-4910-4352-8fc2-50f1e77d668e.0" configVersion="8bae84652f7bd0ce0f8bdc43b739ca2f6df4efc0"/>
+		<Metadata name="CommonModule.БЛС_ФормыЭлементыПереопределяемый" id="0361c22f-5065-4c4b-8a86-558caa3c54c3" configVersion="b79a8b2e6f21cac800feec13a0d46dcf0a5cea6c"/>
+		<Metadata name="CommonModule.БЛС_ФормыЭлементыПереопределяемый.Module" id="0361c22f-5065-4c4b-8a86-558caa3c54c3.0" configVersion="2be6bdb92f780a9a4d8292903ae63603475971ca"/>
+		<Metadata name="Configuration.БЛС_БиблиотекаФорм" id="4035dc32-1cdf-4649-b3d5-070f460443f3" configVersion="8192a1199965e94a909963a70bcb86652f1ff73b"/>
+		<Metadata name="Configuration.БЛС_БиблиотекаФорм.ManagedApplicationModule" id="74401f9c-68a1-4c4c-85ed-7d1fd9c5e2d7.6" configVersion="09afc43ce6ec69f004e5d8ad611f75c1573ff27e"/>
+		<Metadata name="DataProcessor.БЛС_БиблиотекаФорм" id="debf45f9-a0cb-4c05-bc55-29bf20733b17" configVersion="f0cc52d54a38a3def2ceb841c54beddcce45c8f3"/>
+		<Metadata name="DataProcessor.БЛС_БиблиотекаФорм.Form.Пример" id="4b4a9995-7c08-40fb-8d6c-cb9e5711656c" configVersion="c842e3d1b4888b9addeb1e9c9cc75dcb0bc04394"/>
+		<Metadata name="DataProcessor.БЛС_БиблиотекаФорм.Form.Пример.Form" id="4b4a9995-7c08-40fb-8d6c-cb9e5711656c.0" configVersion="6e7b4809cdc86da86265f734c106ad13ad633998"/>
+		<Metadata name="DataProcessor.БЛС_БлочныеТаблицыФормы" id="0582a6c0-d17a-48ec-93e9-b19068a02a6a" configVersion="1f16fd48cef4d7df82699dac8e2f93eeac31b9a9">
+			<Metadata name="DataProcessor.БЛС_БлочныеТаблицыФормы.TabularSection.ТестоваяТаблица.Attribute.Сумма" id="3a446ea9-95c8-49d2-bf74-056cb3797eed"/>
+			<Metadata name="DataProcessor.БЛС_БлочныеТаблицыФормы.TabularSection.ТестоваяТаблица.Attribute.Количество" id="81a8a0fa-ee07-42cf-8993-5e4abed43f1d"/>
+			<Metadata name="DataProcessor.БЛС_БлочныеТаблицыФормы.TabularSection.ТестоваяТаблица.Attribute.Номенклатура" id="8338a4d1-9012-4997-91bb-a71624f30022"/>
+			<Metadata name="DataProcessor.БЛС_БлочныеТаблицыФормы.TabularSection.ТестоваяТаблица.Attribute.СтавкаНДС" id="8fd32880-3ceb-476c-8ca2-ac28b95b4125"/>
+			<Metadata name="DataProcessor.БЛС_БлочныеТаблицыФормы.TabularSection.ТестоваяТаблица" id="d14a6618-945b-40c8-b9c9-fc7f1d8deeac"/>
+			<Metadata name="DataProcessor.БЛС_БлочныеТаблицыФормы.TabularSection.ТестоваяТаблица.Attribute.Содержание" id="ee383828-65f5-4f6c-adfc-2601ababe208"/>
+		</Metadata>
+		<Metadata name="DataProcessor.БЛС_БлочныеТаблицыФормы.Form.Форма" id="46bf8ef1-49dd-458b-a6b0-d5ae37d09362" configVersion="fcec3676776eceeca7aa3a6c3764a059569241ee"/>
+		<Metadata name="DataProcessor.БЛС_БлочныеТаблицыФормы.Form.Форма.Form" id="46bf8ef1-49dd-458b-a6b0-d5ae37d09362.0" configVersion="0bf1d38ba6b03fa30a915fc6ddc48d0416cb25e3"/>
+		<Metadata name="Language.Русский" id="35015f76-fe75-41ee-8056-d3c9330d9792" configVersion="5ddb29d60223c48177c45ad91f8dac1e2e9cfb15"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
